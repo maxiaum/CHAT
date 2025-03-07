@@ -10,7 +10,7 @@
 4. 使用Nginx的TCP负载均衡实现聊天服务器集群功能，提高后端服务的并发能力；
 5. 使用Redis的发布-订阅功能实现用户跨服务器聊天通信。
 ### 编译方式
-cd ./build
-rm -rf *
-cmake ..
-make
+  cd ./build
+  rm -rf *
+  cmake ..
+  make
