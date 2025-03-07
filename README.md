@@ -15,5 +15,5 @@
             rm -rf *
             cmake ..
             make
-或者
+#### 或者
             sh autobuild.sh
