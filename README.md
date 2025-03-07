@@ -11,10 +11,7 @@
 5. 使用Redis的发布-订阅功能实现用户跨服务器聊天通信。
 ### 编译方式
 
-  cd ./build
-  
-  rm -rf *
-  
-  cmake ..
-  
-  make
+            cd ./build
+            rm -rf *
+            cmake ..
+            make
